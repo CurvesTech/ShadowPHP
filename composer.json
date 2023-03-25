@@ -1,0 +1,20 @@
+{
+    "name": "curvestech/shadow",
+    "description": "A simplistic php framework to create php apps.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shadow\\": "src/"
+        },
+        "files": [
+            "helpers/utils.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Mubashar Abbas",
+            "email": "mubashir.abbas@outlook.com"
+        }
+    ]
+}
