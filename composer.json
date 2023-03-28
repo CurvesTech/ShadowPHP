@@ -16,5 +16,8 @@
             "name": "Mubashar Abbas",
             "email": "mubashir.abbas@outlook.com"
         }
-    ]
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    }
 }

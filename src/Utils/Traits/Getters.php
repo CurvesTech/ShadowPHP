@@ -1,6 +1,6 @@
 <?php
 
-namespace Shadow\Utils;
+namespace Shadow\Utils\Traits;
 
 trait Getters
 {

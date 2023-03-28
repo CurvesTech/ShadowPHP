@@ -2,7 +2,7 @@
 
 namespace Shadow\Http;
 
-use Shadow\Utils\GettersSetters;
+use Shadow\Utils\Traits\GettersSetters;
 
 class Header
 {
